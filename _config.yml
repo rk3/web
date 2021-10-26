@@ -1,3 +1,10 @@
-remote_theme            : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin   : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+# Site Settings
+locale                   : "en-US"
+title                    : "Ralf Kremer"
+title_separator          : "-"
+name                     : &name "Ralf Kremer"
+description              : &description "He you found my Web Page."
+url                      : "https://git.ralfkremer.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "web/rk3.github.io"
+#teaser                   : "me.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
