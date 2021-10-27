@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+{% for person in site.data.people %}
+    {{ person.name }}, {{ person.age }} 
+{% endfor %}
