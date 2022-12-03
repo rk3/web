@@ -4,6 +4,7 @@
 
 layout: home
 ---
+bla bla bla
 
 {% for person in site.data.people %}
     {{ person.name }}, {{ person.age }} 
