@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My MVP Web Site 2
+title: "Ralf's Site"
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  My MVP Web Site 2
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "git.ralfkremer.de" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  rk3
+baseurl             : "" # the subpath of your site, e.g. /blog
+url                 : "git.ralfkremer.de" # the base hostname & protocol for your site, e.g. http://example.com
+github_username     :  rk3
+name                : "Ralf Kremer"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
@@ -46,12 +45,13 @@ whitelist:
   - jekyll-include-cache
 
 defaults:
-  -
-    scope:
+  # _posts
+  - scope:
       path: ""
-      type: "post"
+      type: posts
     values:
-      layout: "post"
+      layout: single
+      author_profile: true            
       permalink: "/posts/:year-:month-:day/:title"
 
     scope:
@@ -76,6 +76,32 @@ google:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rk3/"
+
+# Site Author
+author:
+  name             : "Ralf Kremer"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "I am an **amazing** person. Like all the other humans on the planet."
+  location         : "Germany, Rhine Main Arear"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://git.ralfkremer.de"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rk3"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing"
+      url: "https://www.xing.com/profile/Ralf_Kremer3"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ralf-kremer-7bb18029/"
 
 # Sass/SCSS
 sass:

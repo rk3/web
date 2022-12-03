@@ -2,17 +2,14 @@
 layout: single
 title: About
 permalink: /about/
+sidebar: true
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I like to use this side together with the assosiated github repo to share "content". Content will start with some vector based drawings and IT HoTo`s (Setups, Configurations, ...). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**This is a private side and has nothing to do with my professional work.**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I work as an IT Consultant, Coach and also at Projects. One of my hoppy is also IT. So the is some topic overlapping but I create this content in my leisure time and dosen`t contains corperate and client intellectual properties. So that I can share it with you public.
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can find the source code for this Side at [GitHub](https://github.com/rk3/web)
