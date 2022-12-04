@@ -1,7 +1,7 @@
 ---
 layout: single
 title: LICENSE
-permalink: /LICENSE/
+permalink: /LicenseFile/
 ---
 LICENSE
 

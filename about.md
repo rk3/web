@@ -25,4 +25,4 @@ When you have comments, questions or overall like to get in contact with me plea
 
 
 ## License
-The content of this site is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE) License.
+The content of this site is licensed under the [Creative Commons Zero v1.0 Universal](/LicenseFile) License.
