@@ -2,7 +2,9 @@
 layout: single
 title: LICENSE
 permalink: /LicenseFile/
+classes: wide
 ---
-LICENSE
-
+<pre>
 {% include_relative LICENSE %}
+
+</pre>
