@@ -1,5 +1,5 @@
 ---
-title:  "Website Release"
+title:  "Website Released"
 date:   2022-12-04 14:30:00 +0200
 tags:
   - general
@@ -7,7 +7,7 @@ tags:
 #  - howto
 ---
 
-# Welcome
+## Welcome
 
 after I spend again some houres playing with Jekyll and the Minimal Mistakes theam on my local PC and on GitHub it should be enove for a MVP. Look and Feel is minemalistisch, boilerplate content is avalible, inital functionality is configguerd and the local "development" enviroment is functional. 
 

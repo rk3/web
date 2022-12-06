@@ -3,5 +3,7 @@ layout: single
 title: Vector Drawing Stuff
 ---
 
-# [Persons](./persons/)
+## Persons
+* [Agile Persons](./persons/agileIndex)
+* [Traditional Persons](./persons/traditionalIndex)
 

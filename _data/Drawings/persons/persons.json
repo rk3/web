@@ -1,18 +1,24 @@
 [
     {
         "fineName": "ZP Business Fliege",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Consumer a",
+        "role": "Consumer a",
+        "name": "Consumer a",
+        "org": "Agile"
     },
     {
         "fineName": "ZP Business Kette",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Consumer b",
+        "role": "Consumer b",
+        "name": "Consumer b",
+        "org": "Agile"    
     },
     {
         "fineName": "ZP Business Krawatte",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Consumer c",
+        "role": "Consumer c",
+        "name": "Consumer c",
+        "org": "Agile"    
     },
     {
         "fineName": "ZP Hut Bahn Master",
@@ -37,18 +43,24 @@
     },
     {
         "fineName": "ZP Hut China",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Epic Owner",
+        "role": "Epic Owner",
+        "name": "Epic Owner",
+        "org": "Agile"
     },
     {
         "fineName": "ZP Hut Melone Master",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Client a",
+        "role": "Client a",
+        "name": "Client a",
+        "org": "Agile"  
     },
     {
         "fineName": "ZP Hut Melone",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Client b",
+        "role": "Client b",
+        "name": "Client b",
+        "org": "Agile"  
     },
     {
         "fineName": "ZP Hut Sheriff",
@@ -65,6 +77,13 @@
         "org": "Agile"
     },    
     {
+        "fineName": "ZP Hut Sheriff Master Master",
+        "desciption": "Enterprise Architect",
+        "role": "Enterprise Architect",
+        "name": "Enterprise Architect",
+        "org": "Agile"
+    },        
+    {
         "fineName": "ZP Hut Zauberer Master",
         "desciption": "Senior Agile Coach",
         "role": "Agile Coach",
@@ -79,14 +98,33 @@
         "org": "Agile"
     },
     {
+        "fineName": "ZP Hut Zylinder Master Master Master",
+        "desciption": "Solution Management",
+        "role": "Solution Management",
+        "name": "Solution Management",
+        "org": "Agile"
+    },    
+    {
+        "fineName": "ZP Hut Zylinder Master Master",
+        "desciption": "Business Owner",
+        "role": "Business Owner",
+        "name": "Business Owner",
+        "org": "Agile"
+    },
+
+    {
         "fineName": "ZP Hut Zylinder Master",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Product Management",
+        "role": "Product Management",
+        "name": "Product Management",
+        "org": "Agile"
     },
     {
         "fineName": "ZP Hut Zylinder",
-        "desciption": " ",
-        "role": " "
+        "desciption": "Product Owner",
+        "role": "Product Owner",
+        "name": "Product Owner",
+        "org": "Agile"
     },
     {
         "fineName": "ZP Legacy 1 Linien Black",
@@ -188,8 +226,10 @@
     },
     {
         "fineName": "ZP Legacy Gray",
-        "desciption": " ",
-        "role": " "
+        "name": "Employee BU001",        
+        "desciption": "Employee Business Unit 001",
+        "role": "Employee",
+        "org": "Traditional"
     },
     {
         "fineName": "ZP Legacy Rechteck 1",
@@ -221,8 +261,10 @@
     },
     {
         "fineName": "ZP Legacy Rechteck",
-        "desciption": " ",
-        "role": " "
+        "name": "Employee BU003",        
+        "desciption": "Employee in the Business Unit 003",
+        "role": "Employee",
+        "org": "Traditional"
     },
     {
         "fineName": "ZP Std Herz",

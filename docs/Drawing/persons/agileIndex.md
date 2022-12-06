@@ -1,13 +1,16 @@
 ---
-title:  "Persons Index"
+title:  "Agile Persons Index"
 layout: single
 toc: ture
 ---
 
-## Traditional Organisations
-{% for person in site.data.Drawings.persons.persons %}
+> **Style**
+>   Hat style defines a role
+>   Hat style together with the size defines the abstracation Level he/she is working
 
-### {{ person.name }}
+{% for person in site.data.Drawings.persons.persons %}
+    {% if person.org == "Agile" %}
+## {{ person.name }}
 
 
 
@@ -39,6 +42,6 @@ toc: ture
 
 </table>
 
-
+    {% endif %}
 {% endfor %} 
 
