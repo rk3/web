@@ -11,7 +11,7 @@ tags:
 
 Test 
 
-```
+
 
 {% plantuml %}
 Alice -> Bob: Authentication Request
@@ -35,7 +35,7 @@ Car -- Person : < owns
 @enduml
 {% endplantuml %}
 
-
+```
 
 - name: PlantUML Action
   # You may pin to the exact commit or the version.
