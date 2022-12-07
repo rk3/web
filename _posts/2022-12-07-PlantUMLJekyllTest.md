@@ -17,6 +17,7 @@ Test
 Alice -> Bob: Authentication Request
 Bob --> Alice: Authentication Response
 Bob --> Ralf: Authentication Response
+Ralf --> Bob: Authentication Response
 
 Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
@@ -38,11 +39,12 @@ Car -- Person : < owns
 
 ```
 
-- name: PlantUML Action
-  # You may pin to the exact commit or the version.
-  # uses: Timmy/plantuml-action@7f13564d11998fd03be650da0faaa310df37932c
-  uses: Timmy/plantuml-action@v1
-  with:
-    # PlantUML software version
-    version: # optional
+      - name: plantuml
+        id: plantuml
+        uses: grassedge/generate-plantuml-action@v1.5
+        with:
+          path: assests/PlantUML/
+          message: "Render PlantUML files"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
