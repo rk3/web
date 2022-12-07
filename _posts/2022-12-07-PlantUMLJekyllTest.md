@@ -26,7 +26,7 @@ Alice <-- Bob: another authentication Response
 UML 
 
 {% plantuml %}
-@startuml
+
 class MyClass
 class Car
 
@@ -34,7 +34,7 @@ Driver - Car : drives >
 Car *- Wheel : have 4 >
 Car -- Person : < owns
 
-@enduml
+
 {% endplantuml %}
 
 ```
