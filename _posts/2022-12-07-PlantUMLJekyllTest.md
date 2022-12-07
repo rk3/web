@@ -16,6 +16,7 @@ Test
 {% plantuml %}
 Alice -> Bob: Authentication Request
 Bob --> Alice: Authentication Response
+Bob --> Ralf: Authentication Response
 
 Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
