@@ -24,6 +24,7 @@ baseurl             : "" # the subpath of your site, e.g. /blog
 url                 : "git.ralfkremer.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username     :  rk3
 name                : "Ralf Kremer"
+repository          : "rk3/web"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
