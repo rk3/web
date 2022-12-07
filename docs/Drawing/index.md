@@ -4,6 +4,6 @@ title: Vector Drawing Stuff
 ---
 
 ## Persons
-* [Agile Persons](./persons/agileIndex)
-* [Traditional Persons](./persons/traditionalIndex)
+* [Agile Person Symbole](./persons/agileIndex)
+* [Traditional Person Symbole](./persons/traditionalIndex)
 

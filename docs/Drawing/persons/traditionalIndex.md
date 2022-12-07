@@ -1,5 +1,5 @@
 ---
-title:  "Agile Persons Index"
+title:  "Traditional Persons Index"
 layout: single
 toc: ture
 ---
