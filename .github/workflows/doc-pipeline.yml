@@ -1,6 +1,6 @@
 name: Docs pipeline
 description: 'A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages'
-author: 'GitHub'
+author: 'GitHub'‚
 inputs:
   source:
     description: 'Directory where the source files reside.'
@@ -29,3 +29,5 @@ inputs:
 runs:
   using: 'docker'
   image: 'docker://ghcr.io/actions/jekyll-build-pages:v1.0.6'
+
+
