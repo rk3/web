@@ -9,19 +9,6 @@ tags:
 
 ## My Test Diagram 
 
-Test 
-
-
-
-{% plantuml %}
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-Bob --> Ralf: Authentication Response
-Ralf --> Bob: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-{% endplantuml %}
 
 UML 
 
@@ -36,6 +23,21 @@ Car -- Person : < owns
 
 
 {% endplantuml %}
+
+Test 
+
+
+
+{% plantuml %}
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Bob --> Ralf: Authentication Response
+Ralf --> Bob: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+{% endplantuml %}
+
 
 ```
 

@@ -8,9 +8,15 @@ toc: ture
 >   Hat style defines a role
 >   Hat style together with the size defines the abstracation Level he/she is working
 
+## Organisation / Structure
+<img src="/assets/images/Drawings/persons/AgileOrg.svg" alt="drawing" style="width:400px;"/>
+
+
+## Personas
+
 {% for person in site.data.Drawings.persons.persons %}
     {% if person.org == "Agile" %}
-## {{ person.name }}
+### {{ person.name }}
 
 
 
