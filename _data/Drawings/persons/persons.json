@@ -148,10 +148,10 @@
         "org": "Traditional"
     },
     {
-        "fineName": "VP and Manager Level 2 BU101",
-        "desciption": "VP and Manager Level 2 in the Business Unit 101",
-        "role": "VP and Manager Level 2",
-        "name": "VP and Manager Level 2 BU101",
+        "fineName": "Manager Level 2 BU101",
+        "desciption": "Manager Level 2 in the Business Unit 101",
+        "role": "Manager Level 2",
+        "name": "Manager Level 2 BU101",
         "org": "Traditional"
     },
     {
@@ -183,10 +183,10 @@
         "org": "Traditional"
     },
     {
-        "fineName": "Manager Level 3 BU002",
-        "desciption": "Manager Level 3 in the Business Unit 002",
-        "role": "Manager Level 3",
-        "name": "Manager Level 3 BU002",
+        "fineName": "Manager Level 2 BU002",
+        "desciption": "Manager Level 2 in the Business Unit 002",
+        "role": "Manager Level 2",
+        "name": "Manager Level 2 BU002",
         "org": "Traditional"
     },
     {

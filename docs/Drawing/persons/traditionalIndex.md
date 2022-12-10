@@ -7,11 +7,15 @@ toc: ture
 > **Style**
 >   A particuallar Business Unit is defined by the "shirt" style.
 >   Possition/Level is defined by the number of badges
+
+## Organisation / Structure
+<img src="/assets/images/Drawings/persons/TraditionalOrg.svg" alt="drawing" style="width:600px;"/>
+
+## Personas
+
 {% for person in site.data.Drawings.persons.persons %}
     {% if person.org == "Traditional" %}
-## {{ person.name }}
-
-
+### {{ person.name }}
 
 <table>
     <thead>
