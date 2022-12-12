@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 162 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1676,-702)">
+        <g transform="matrix(1.83848,0,0,1.83848,-650.604,-2720.53)">
+            <g id="Eur">
+                <g transform="matrix(0.48128,0,0,0.478032,483.248,1278.67)">
+                    <path d="M1717.05,1219.7C1767.26,1219.7 1808.03,1260.46 1808.03,1310.68C1808.03,1360.89 1767.26,1401.66 1717.05,1401.66C1666.83,1401.66 1626.07,1360.89 1626.07,1310.68C1626.07,1260.46 1666.83,1219.7 1717.05,1219.7ZM1717.05,1227.33C1763.05,1227.33 1800.39,1264.68 1800.39,1310.68C1800.39,1356.68 1763.05,1394.03 1717.05,1394.03C1671.05,1394.03 1633.7,1356.68 1633.7,1310.68C1633.7,1264.68 1671.05,1227.33 1717.05,1227.33Z"/>
+                </g>
+                <g transform="matrix(0.543928,0,0,0.543928,503.505,1166.63)">
+                    <g transform="matrix(100,0,0,100,1505.78,1393.61)">
+                    </g>
+                    <text x="1442.55px" y="1393.61px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:100px;">€</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

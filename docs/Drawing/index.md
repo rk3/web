@@ -7,3 +7,8 @@ title: Vector Drawing Stuff
 * [Agile Person Symbole](./persons/agileIndex)
 * [Traditional Person Symbole](./persons/traditionalIndex)
 
+## Symbols
+* [Symbols](./symbols/)
+
+## Pictograms
+* [Pictograms](./pictograms/)

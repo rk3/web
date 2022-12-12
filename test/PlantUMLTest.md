@@ -1,10 +1,5 @@
 ---
-title:  "PlantUML Jekyll Test"
-date:   2022-12-07 21:00:00 +0200
-tags:
-#  - general
-  - drawing
-#  - howto
+layout: single
 ---
 
 ## My Test Diagram 

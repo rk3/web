@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 117 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-93,-341)">
+        <g transform="matrix(1.15735,0,0,1.15735,-2561.59,-2089.54)">
+            <g id="Flack">
+                <g transform="matrix(1,0,0,1,29.622,426.441)">
+                    <path d="M2267.72,1829L2267.72,1677.16" style="fill:none;stroke:black;stroke-width:3.57px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,23.622,426.441)">
+                    <path d="M2370.47,1738.58C2370.47,1738.58 2355.19,1742.28 2346.85,1742.12C2336.42,1741.92 2318.5,1737 2307.87,1736.22C2299.48,1735.59 2283.07,1739.76 2283.07,1739.76L2283.07,1679.53C2283.07,1679.53 2299.48,1675.36 2307.87,1675.98C2318.5,1676.77 2336.42,1681.69 2346.85,1681.89C2355.19,1682.05 2370.47,1678.35 2370.47,1678.35L2370.47,1738.58Z" style="fill:rgb(164,164,164);stroke:black;stroke-width:0.65px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
