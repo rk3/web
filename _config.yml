@@ -21,7 +21,7 @@
 title: "Ralf's Site"
 email: 
 baseurl             : "" # the subpath of your site, e.g. /blog
-url                 : "git.ralfkremer.de" # the base hostname & protocol for your site, e.g. http://example.com
+url                 : "web.ralfkremer.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username     :  rk3
 name                : "Ralf Kremer"
 repository          : "rk3/web"
@@ -57,7 +57,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://git.ralfkremer.de"
+      url: "https://web.ralfkremer.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rk3"
